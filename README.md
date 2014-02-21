@@ -32,3 +32,8 @@ Dev server portion
 
 7. ./pull.sh
 8. ./run.sh (same script as in step 4 - cool!)
+
+Next up
+=======
+
+1. Deploy a private docker repository instead of embedding product in a public container.
